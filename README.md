@@ -10,7 +10,11 @@ Evolutionary and structural properties of the native NS1 protein. Each row repre
 
 Secondary structure composition of the generated backbones scaffolds. Histogram showing the proportion of residues assigned as loop (green), ɑ-helix (orange) or β-sheet (blue) secondary structure elements across all backbones containing the selected YFV NS1 peptide.
 
-## YFV-Scaffold_NS1_superposition
+## Figure S4
+
+YFV-Scaffold structure.
+
+## Figure S5
 
 Structural superposition of YFV-Scaffold and the native YFV NS1 protein. The designed protein (YFV-Scaffold, blue) is superimposed onto the crystal structure of YFV NS1 (PDB ID: 8ZBA, white). Residues corresponding to the native epitope incorporated into the YFV-Scaffold design are highlighted in red.
 
@@ -29,3 +33,7 @@ Predicted MHC Class I and II binding epitopes identified using NetMHCpan and Net
 ## Table S4
 
 Protein Data Bank (PDB) entries of NS1 proteins used in the analyses of YFV, DENV and ZIV.
+
+## Scheme S1
+
+Atomic coordinates of the YFV-Scaffold protein.
